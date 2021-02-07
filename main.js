@@ -41,7 +41,7 @@ const search = () => {
 };
 
 // food information
-function foodIngredients(name) {
+const foodIngredients = (name) => {
 
   const blur = document.getElementById("foodMenu");
   blur.classList.add("blur");
