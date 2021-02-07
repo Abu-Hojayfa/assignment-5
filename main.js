@@ -90,7 +90,7 @@ const foodIngredients = (name) => {
 
     });
   console.log(name);
-}
+};
 
 // go back
 function showMain() {
